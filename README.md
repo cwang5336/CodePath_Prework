@@ -1,4 +1,4 @@
-# First-ModileApp
+# CodePath Prework
 This is a prework app that I have to write for admition to
 the Introduction to Mobile developnment course at CodePath.
 
